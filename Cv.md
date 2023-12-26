@@ -58,11 +58,13 @@ Actuellement a la recherche de Stage en developpement d'application Web/Mobile/ 
    - Formation : Preparation d'un RNCP Niv.6 en Developpement Applicatif  
    Equivalent a une Liscence  
  <br>
+
  - <u>**2020 - 2021**</u> &rarr; Classe preparatoire au grande ecole :
    - Secteur : Technologie Biologie 
    - Lycee : la Martinière Duchère  
      Lyon  
  <br>
+
  - <u>**2020**</u> &rarr; Baccalauréat SLT-B :  
     Lycee : Raoul Dautry - Limoges  
 
