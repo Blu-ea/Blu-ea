@@ -9,7 +9,7 @@ Actuellement a la recherche de Stage en developpement d'application Web/Mobile/ 
 
 
 ### Contact :
- - E-mail : [`antoine.miguez@gmail.com`](antoine.miguez@gmail.com)
+ - E-mail : [`antoine.miguez@gmail.com`](mailto:antoine.miguez@gmail.com)
  - Github : [`blu-ea`](https://github.com/Blu-ea)
  - Discord : `blu_ea`
 
