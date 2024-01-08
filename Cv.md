@@ -84,4 +84,4 @@ Actuellement a la recherche de Stage en developpement d'application Web/Mobile  
 
 ## Langue
 
- - Anglais(B2-C1)
+ - Anglais(B2)
