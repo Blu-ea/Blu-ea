@@ -10,6 +10,7 @@ Actuellement a la recherche de Stage en developpement d'application Web/Mobile  
 
 ### Contact :
  - E-mail : [`antoine.miguez@gmail.com`](mailto:antoine.miguez@gmail.com)
+ - Linkedin : [`Antoine Miguez`](https://www.linkedin.com/in/antoine-miguez-a60402246/)
  - Github : [`blu-ea`](https://github.com/Blu-ea)
  - Discord : [`blu_ea`](https://discord.com/users/276396807821721600)
 
@@ -28,7 +29,7 @@ Actuellement a la recherche de Stage en developpement d'application Web/Mobile  
  - Bash
 
 
-## Experience :
+## Projets Réaliser :
 
  - [Transcendence](https://github.com/BenJ3D/ft_transcendence-42) - _<u>06.2023 - 08.2023</u>_  
  Projet de groupe visant a la creation d'un site deployable sous docker _(FrontEnd: Next.js / React, BackEnd: NestJS, Db: PostgreSQL)_  
